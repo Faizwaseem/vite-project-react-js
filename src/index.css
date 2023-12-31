@@ -1,0 +1,21 @@
+.head{
+    background-color: black;
+    text-align: center;
+    padding: 20px;
+    color: white;
+/* height: 1000px; */
+}
+.inp{
+
+width: 300px;
+    padding: 5px;
+}
+.btn{
+
+width: 70px;
+padding: 5px;
+    margin-left: 20px;
+}
+.btn:hover{
+    background-color: beige;
+}
